@@ -167,7 +167,6 @@
     "should": "^13.2.3",
     "updtr": "^3.1.0"
   },
-  "optionalDependencies": {},
   "typings": "./types.d.ts",
   "bugs": {
     "url": "https://github.com/FGRibreau/mailchecker/issues"
